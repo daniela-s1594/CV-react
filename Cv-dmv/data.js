@@ -1,58 +1,51 @@
 const info = [
     {
         "data": {
-            "name": "Melissa Walsh",
+            "name": "Daniela Manjarrrés Virviescas",
             "profession": "FrontEnd Developer",
-            "address": "Bogotá, Colombia.",
-            "email": "melissa@example.com",
+            "address": "Calarcá, Colombia.",
+            "email": "danielamvirviescas2004@gmail.com",
             "website": "https://example.com",
-            "phone": "3042034240",
-            "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-            "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+            "phone": "3233198140",
+            "avatar": "src/assets/foto.jpg",
+            "Profile": "Aun pensandolo, ",
             "certificate": [
                 {
-                    "date": "Jan 2021",
-                    "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-                    "institution": "Platzi",
-                    "name": "FrontEnd Developer"
+                    "date": "Jul 2024",
+                    "description": "It was a great learning. ",
+                    "institution": "SENA",
+                    "name": "Analysis and software development"
                 },
                 {
-                    "date": "Jan 2021",
-                    "description": "Scratch at the door then walk away wack the mini furry mouse",
-                    "institution": "Platzi",
-                    "name": "Backend Developer"
+                    "date": "Nov 2021",
+                    "description": "Was greated but i don´t liked that",
+                    "institution": "SENA",
+                    "name": "Administrative Assistant"
                 }
             ],
             "Academic": [
                 {
-                    "degree": "Atomic Master",
-                    "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-                    "endDate": "Jan 2017",
-                    "institution": "MIT",
-                    "startDate": "Jan 2018"
-                },
-                {
-                    "degree": "Space Engineering",
-                    "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-                    "endDate": "Decenber 2015",
-                    "institution": "Harvard",
-                    "startDate": "Jan 2017"
+                    "degree": "Bachelor",
+                    "description": "A greater phase in my life ",
+                    "endDate": "Nov 2021",
+                    "institution": "San José",
+                    "startDate": "Jan 2010"
                 }
             ],
             "experience": [
                 {
-                    "company": "PugStar",
-                    "endDate": "Present",
-                    "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
+                    "company": "N/A",
+                    "endDate": "N/A",
+                    "jobDescription": "independent practiced.",
                     "jobTitle": "Frontend",
-                    "startDate": "Jan 2020"
+                    "startDate": "Jan 2023"
                 },
                 {
-                    "company": "CatStore",
-                    "endDate": "Jan 2016",
-                    "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
+                    "company": "N/A",
+                    "endDate": "N/A",
+                    "jobDescription": "independent practiced.",
                     "jobTitle": "Backend",
-                    "startDate": "Sept 2019"
+                    "startDate": "Jan 2023"
                 }
             ],
             "skills": [
@@ -62,15 +55,15 @@ const info = [
                 },
                 {
                     "name": "CSS",
-                    "percentage": "25%"
-                },
-                {
-                    "name": "JavaScript",
                     "percentage": "55%"
                 },
                 {
+                    "name": "JavaScript",
+                    "percentage": "50%"
+                },
+                {
                     "name": "React",
-                    "percentage": "90%"
+                    "percentage": "60%"
                 }
             ],
             "interest": [
@@ -92,20 +85,13 @@ const info = [
             "social": [
                 {
                     "name": "facebook",
-                    "url": "https://facebook.com/"
-                },
-                {
-                    "name": "twitter",
-                    "url": "https://twitter.com/"
+                    "url": "https://www.facebook.com/daniela.manjarresvirviescas/"
                 },
                 {
                     "name": "github",
-                    "url": "https://github.com/"
+                    "url": "https://github.com/danielaviradso"
                 },
-                {
-                    "name": "linkedin",
-                    "url": "https://www.linkedin.com/"
-                }
+                
             ]
         }
     }
