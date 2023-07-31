@@ -10,9 +10,10 @@
     height:15rem;
     width: 100vw;
     display: flex;
-    background-color: rgb(42, 121, 113);
+    background-color: rgb(74, 67, 173);
     align-items:center;
     justify-content:center;
+    color:rgb(236, 243, 243)
 }
 
 .dani_photo{
@@ -23,3 +24,4 @@
     position: relative;
     right:15rem;
 }
+

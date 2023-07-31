@@ -8,21 +8,21 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  text-align: left;
+  text-align:start;
+  justify-content: space-between;
 }
 
 body{
   margin-left: 10px;
   margin-top: 10px;
   margin-right: 10px;
-  background-color: #e5eceb;
-
+  background-color: rgb(224, 224, 236);
 }
 
 
 .container-Interest-languages{
   display: flex;
-  flex-direction: row;
+  flex-direction:row;
   margin-right: 3px;
 }
 

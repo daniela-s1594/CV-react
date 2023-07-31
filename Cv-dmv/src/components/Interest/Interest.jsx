@@ -11,7 +11,8 @@ export function Interest() {
                             <>
                                {info.interest.map((val) =>  (
                                     <>
-                                        {val} 
+                                        {val}
+                                        <br />
                                     </>
                                 ))}
                             </>

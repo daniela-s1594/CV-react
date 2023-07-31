@@ -12,7 +12,7 @@ export const Experience = () => {
                     <p href="">{val.jobDescription}</p>
                     <p href="">{val.jobTitle}</p>
                     <p href="">{val.startDate}</p>
-
+                    <br />
                 </>
             ))}
         </div>

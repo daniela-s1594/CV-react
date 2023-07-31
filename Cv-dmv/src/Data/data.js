@@ -1,4 +1,4 @@
-export const info = [
+export const info = 
     {
             "name": "Daniela Manjarrrés Virviescas",
             "profession": "FrontEnd Developer",
@@ -6,7 +6,7 @@ export const info = [
             "email": "danielamvirviescas2004@gmail.com",
             "website": "https://example.com",
             "phone": "3233198140",
-            "image": "./public/foto.jpg",
+            "image": "./public/photo.jpg",
             "Profile": "Developer, ",
             "certificate": [
                 {
@@ -103,4 +103,3 @@ export const info = [
                 
             ]
         }
-]

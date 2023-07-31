@@ -9,6 +9,7 @@ export function Profile() {
                             <p href="">{val.description}</p>
                             <p href="">{val.institution}</p>
                             <p href="">{val.name}</p>
+                            <br />
                         </>
                     ))}
         </div>

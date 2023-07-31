@@ -14,6 +14,7 @@ export function Academic() {
                                     <p href="">{val.institution}</p>
                                     <p href="">{val.endDate}</p>
                                     <p href="">{val.startDate}</p>
+                                    <br />
                                 </>
                             ))}
                 </div>

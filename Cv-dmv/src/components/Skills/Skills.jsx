@@ -9,7 +9,6 @@ export function Skills() {
                             {info.skills.map((val) => (
                                 <>
                                     <p href="" className='skills-name'>{val.name} {val.percentage}</p>
-
                                 </>
                             ))}
                 </div>
