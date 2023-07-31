@@ -1,14 +1,13 @@
-const info = [
+export const info = [
     {
-        "data": {
             "name": "Daniela Manjarrrés Virviescas",
             "profession": "FrontEnd Developer",
             "address": "Calarcá, Colombia.",
             "email": "danielamvirviescas2004@gmail.com",
             "website": "https://example.com",
             "phone": "3233198140",
-            "avatar": "src/assets/foto.jpg",
-            "Profile": "Aun pensandolo, ",
+            "image": "src/assets/foto.jpg",
+            "Profile": "Developer, ",
             "certificate": [
                 {
                     "date": "Jul 2024",
@@ -75,7 +74,7 @@ const info = [
             "languages": [
                 {
                     "name": "Spanish",
-                    "percentage": "90%"
+                    "percentage": "100%"
                 },
                 {
                     "name": "English",
@@ -94,5 +93,4 @@ const info = [
                 
             ]
         }
-    }
 ]

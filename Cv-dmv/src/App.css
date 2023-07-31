@@ -1,42 +1,64 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #e5eceb;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+
+.container-Interest-languages{
+  display: flex;
+  flex-direction: row;
+  margin-right: 3px;
 }
 
-.card {
-  padding: 2em;
+.Academic{
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
 }
 
-.read-the-docs {
-  color: #888;
+.container{
+  width: 50%;
+  padding: 10px;
+}
+
+.Skills{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills-container{
+  width: 50%;
+  padding: 10px;
+}
+
+.skills-name{
+  margin-right: 0.8rem;
+}
+
+.Interest-container{
+  width: 50%;
+  padding: 10px;
+}
+
+.Interest-container{
+  margin-right: 0.8rem;
 }
