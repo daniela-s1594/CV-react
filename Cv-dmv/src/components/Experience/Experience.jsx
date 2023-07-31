@@ -4,7 +4,7 @@ import "./Experience.css";
 export const Experience = () => {
     return (
         <div className='experience'><h2>Experience</h2>
-            {info.experience.map((val, index) => (
+            {info.experience.map((val) => (
 
                 <>
                     <p href="">{val.company}</p>

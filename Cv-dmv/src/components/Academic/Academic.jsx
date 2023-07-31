@@ -7,7 +7,7 @@ export function Academic() {
             <div className="container">
                 <div className='Academic'>
                     <h2>Academic</h2>
-                            {info.Academic.map((val, index) => (
+                            {info.Academic.map((val) => (
                                 <>
                                     <p href="">{val.degree}</p>
                                     <p href="">{val.description}</p>

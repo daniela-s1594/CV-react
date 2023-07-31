@@ -6,7 +6,7 @@ export const info = [
             "email": "danielamvirviescas2004@gmail.com",
             "website": "https://example.com",
             "phone": "3233198140",
-            "image": "src/assets/foto.jpg",
+            "image": "./public/foto.jpg",
             "Profile": "Developer, ",
             "certificate": [
                 {
@@ -64,12 +64,22 @@ export const info = [
                     "name": "React",
                     "percentage": "60%"
                 }
+                ,
+                {
+                    "name": "C#",
+                    "percentage": "40%"
+                }
+                ,
+                {
+                    "name": "MySql",
+                    "percentage": "60%"
+                }
             ],
             "interest": [
                 "javascript",
                 "develop",
                 "backend",
-                "frontend"
+                "frontend",
             ],
             "languages": [
                 {

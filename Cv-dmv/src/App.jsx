@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import '../src/App.css'
-import { Header } from './Components/Header/Header';
-import { Profile } from './Components/Profile/Profile';
-import { Academic } from './Components/Academic/Academic';
-import { Experience } from './Components/Experience/Experience';
-import { Skills } from './Components/Skills/Skills';
-import { Interest } from './Components/Interest/Interest';
-import { Languages } from './Components/Languages/Languages';
+import { Header } from './components/Header/Header';
+import { Profile } from './components/Profile/Profile';
+import { Academic } from './components/Academic/Academic';
+import { Experience } from './components/Experience/Experience';
+import { Skills } from './components/Skills/Skills';
+import { Interest } from './components/Interest/Interest';
+import { Languages } from './components/Languages/Languages';
 
 
 function App() {
@@ -22,8 +22,8 @@ function App() {
         <Skills />
       </div>
       <div className="container-Interest-languages">
-      <Interest />
-      <Languages />
+        <Interest />
+        <Languages />
       </div>
     </div>
   )
